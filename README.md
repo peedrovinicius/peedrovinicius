@@ -66,3 +66,7 @@ Busco minha primeira oportunidade profissional na área de tecnologia, com inter
 Este perfil reúne meus estudos, projetos práticos e minha evolução durante minha formação em tecnologia.
 
 **Fortaleza, Ceará, Brasil**
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/peedrovinicius/)

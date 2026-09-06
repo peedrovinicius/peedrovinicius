@@ -24,7 +24,7 @@ Na formação Full Stack, estou estudando conceitos e tecnologias relacionados a
 
 ## Análise de Dados
 
-Também estou desenvolvendo meus primeiros projetos de estudo na área de dados, explorando:
+Também estou desenvolvendo projetos de estudo na área de dados, explorando:
 
 * Python
 * Pandas
@@ -38,9 +38,15 @@ Também estou desenvolvendo meus primeiros projetos de estudo na área de dados,
 
 Projeto de estudo desenvolvido para praticar análise e exploração de dados utilizando Python, Pandas e Matplotlib.
 
-### Projeto Full Stack
+[Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
-Projeto de estudo desenvolvido durante minha formação em desenvolvimento web, utilizando JavaScript, Node.js, Express, HTML e CSS.
+### Gerenciador de Pacientes Odontológicos
+
+Sistema web desenvolvido para praticar desenvolvimento Full Stack, utilizando HTML, CSS, JavaScript, Node.js e Express.
+
+[Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos)
+
+[Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
 
 ## Formação
 

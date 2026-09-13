@@ -44,11 +44,23 @@ Formação complementar na Digital College, com estudos voltados ao desenvolvime
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-## Em estudo
+## Próximos estudos — Digital College
 
-<p align="center">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-</p>
+Na formação **Full Stack com IA**, a grade publicada pela Digital College inclui os seguintes conteúdos:
+
+**Desenvolvimento web**
+
+`HTML5` • `CSS3` • `Bibliotecas para HTML e CSS` • `JavaScript` • `DOM`
+
+**Front-end**
+
+`APIs` • `NPM` • `React.js` • `Cypress`
+
+**Back-end e banco de dados**
+
+`Banco de dados` • `Node.js` • `Express.js` • `Testes automatizados`
+
+Esses conteúdos representam **próximos estudos da formação**, e não conhecimentos que já estou declarando dominar.
 
 ## Projetos em destaque
 

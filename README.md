@@ -42,25 +42,14 @@ Projeto de estudo para praticar análise e exploração de dados utilizando **Py
 
 ## Tecnologias presentes nos projetos
 
-**Desenvolvimento**
+**Desenvolvimento**  
+HTML · CSS · JavaScript · Node.js · Express
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"></a>
+**Dados**  
+Python · Pandas · Matplotlib · Power BI · Power Query · DAX
 
-**Dados**
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"></a>
-<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI"></a>
-
-**Versionamento**
-
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+**Versionamento**  
+Git · GitHub
 
 ## Formação
 
@@ -72,12 +61,6 @@ Em andamento — Fortaleza, Ceará
 
 **Odontologia — Centro Universitário Doutor Leão Sampaio**  
 Concluído em **2021**
-
-## Próximos estudos
-
-Na formação **Full Stack com IA** da Digital College, estão previstos estudos em:
-
-`HTML5` • `CSS3` • `Bibliotecas para HTML e CSS` • `JavaScript` • `DOM` • `APIs` • `NPM` • `React.js` • `Cypress` • `Banco de dados` • `Node.js` • `Express.js` • `Testes automatizados`
 
 ## Sobre minha trajetória
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  Tecnologia • Projetos práticos • Transição de carreira
+  Em transição de carreira para tecnologia
 </p>
 
 <p align="center">
@@ -14,46 +14,15 @@
   </a>
 </p>
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza, como formação complementar.
 
-Estou construindo minha formação em tecnologia por meio de estudos e projetos práticos, com foco em consolidar minha base em **ADS**.
-
-## Formação em andamento
-
-**Análise e Desenvolvimento de Sistemas**  
-Formação principal em tecnologia.
-
-**Desenvolvimento Full Stack com IA — Digital College**  
-Formação complementar.
-
-## Tecnologias utilizadas em projetos
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-</p>
-
-## Próximos estudos — Digital College
-
-Na formação **Full Stack com IA**, estão previstos estudos em:
-
-`HTML5` • `CSS3` • `Bibliotecas para HTML e CSS` • `JavaScript` • `DOM` • `APIs` • `NPM` • `React.js` • `Cypress` • `Banco de dados` • `Node.js` • `Express.js` • `Testes automatizados`
-
-> Esses conteúdos representam estudos previstos na formação e não indicam domínio atual dessas tecnologias.
+Estou construindo minha base em tecnologia por meio de estudos e projetos práticos, com interesse principal nas áreas relacionadas à formação em **ADS**.
 
 ## Projetos em destaque
 
 ### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 
-Projeto de análise de dados desenvolvido em **Power BI**, com foco nos Microempreendedores Individuais (MEIs), indicadores, distribuição por UF e análise de atividades.
+Projeto de análise de dados desenvolvido em **Power BI**, com uso de **Power Query e DAX** para trabalhar indicadores, distribuição por UF e atividades econômicas dos MEIs.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024)
 
@@ -69,6 +38,23 @@ Projeto de estudo para praticar análise e exploração de dados utilizando **Py
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
+## Tecnologias presentes nos projetos
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
+</p>
+
+> As tecnologias acima estão relacionadas aos projetos publicados neste perfil e não significam domínio avançado de todas elas.
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**  
@@ -82,9 +68,11 @@ Concluído em **2021**
 
 ## Sobre minha trajetória
 
-Minha formação anterior foi em **Odontologia**, e hoje estou construindo uma nova trajetória profissional na área de tecnologia.
+Minha formação anterior é em **Odontologia**. Atualmente estou fazendo uma transição de carreira para a área de tecnologia e construindo uma nova trajetória profissional a partir da formação em ADS.
 
-Essa mudança trouxe para os meus estudos características da minha formação anterior, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**. Meu foco agora é evoluir tecnicamente, desenvolver projetos e consolidar minha formação em ADS.
+A experiência acadêmica anterior contribuiu para desenvolver características que hoje aplico nos meus estudos, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
+
+Neste momento, meu foco está em aprender, praticar e transformar o que estudo em projetos que possam ser avaliados de forma concreta.
 
 ## Objetivo
 

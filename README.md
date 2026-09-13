@@ -22,7 +22,9 @@ Estou construindo minha base em tecnologia por meio de estudos e projetos práti
 
 ### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 
-**Projeto principal de portfólio.** Análise desenvolvida em **Power BI**, utilizando **Power Query e DAX** para trabalhar indicadores, distribuição por UF e atividades econômicas dos MEIs.
+**Projeto principal de portfólio.** Análise desenvolvida em **Power BI**, utilizando **Power Query e DAX**, a partir dos Dados Setoriais 2024 da Receita Federal do Brasil.
+
+O projeto trabalha indicadores dos MEIs, distribuição por UF e análise de atividades econômicas, com documentação de metodologia, modelo de dados e medidas DAX.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Metodologia](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/metodologia.md) · [Modelo de dados](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/modelo-dados.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
 
@@ -37,12 +39,6 @@ Sistema web desenvolvido como projeto prático, utilizando **HTML, CSS, JavaScri
 Projeto de estudo para praticar análise e exploração de dados utilizando **Python, Pandas e Matplotlib**.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
-
-## Como desenvolvo meu projeto de dados
-
-```text
-Dados → Tratamento → Modelagem → Indicadores → Visualização → Validação → Documentação
-```
 
 ## Tecnologias presentes nos projetos
 

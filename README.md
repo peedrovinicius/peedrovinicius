@@ -12,6 +12,9 @@
   <a href="https://github.com/peedrovinicius">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="mailto:pedroviniciusodt@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-555555?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza, como formação complementar.

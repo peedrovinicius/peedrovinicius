@@ -75,6 +75,6 @@ Meu foco neste momento é aprender, praticar e transformar o que estudo em proje
 
 ## Objetivo
 
-Busco minha **primeira oportunidade profissional na área de tecnologia**, especialmente em posições de entrada relacionadas à minha formação em **Análise e Desenvolvimento de Sistemas**.
+Construir minha trajetória profissional em tecnologia, aplicando os conhecimentos desenvolvidos na formação em **Análise e Desenvolvimento de Sistemas** por meio de projetos práticos.
 
 **Fortaleza, Ceará, Brasil**

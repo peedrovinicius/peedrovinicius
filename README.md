@@ -9,25 +9,23 @@
   </a>
 </p>
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia | Projetos práticos**
+**Estudante de Análise e Desenvolvimento de Sistemas | Projetos práticos em tecnologia**
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também faço formação em **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza.
 
-Minha transição para a tecnologia vem sendo construída por meio de estudos e projetos práticos, buscando transformar o conhecimento adquirido no curso em aplicações e análises que possam ser apresentadas em um portfólio.
+Estou construindo minha formação em tecnologia por meio de estudos e projetos práticos, com foco em consolidar minha base em **ADS**, desenvolver aplicações e trabalhar com dados.
 
-## Em formação
+## Formação em andamento
 
 ### Análise e Desenvolvimento de Sistemas
 
-Formação principal, com foco na construção da minha base em tecnologia e desenvolvimento.
+Minha formação principal em tecnologia, na qual estou construindo minha base acadêmica e técnica para atuar na área de TI.
 
 ### Desenvolvimento Full Stack
 
-Estudos complementares envolvendo desenvolvimento web e fundamentos de aplicações modernas.
+Formação complementar com estudos voltados ao desenvolvimento web e fundamentos de aplicações.
 
-### Dados
-
-Projetos de estudo voltados à análise, exploração e visualização de dados.
+## Tecnologias e ferramentas
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -64,17 +62,17 @@ Projetos de estudo voltados à análise, exploração e visualização de dados.
 
 ## Projetos em destaque
 
-### Raio-X do Empreendedorismo no Brasil — MEIs 2024
+### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 
-Projeto de análise de dados desenvolvido em **Power BI**, com foco em indicadores dos Microempreendedores Individuais (MEIs), distribuição por UF, concentração de atividades e exploração dos dados.
+Projeto de análise de dados desenvolvido em **Power BI**, com foco nos Microempreendedores Individuais (MEIs), indicadores, distribuição por UF e análise de atividades.
 
 <a href="https://github.com/peedrovinicius/analise-mei-brasil-2024">
-  <img src="https://img.shields.io/badge/Ver%20projeto-analise--mei--brasil--2024-F2C811?style=for-the-badge&logo=github&logoColor=000000" alt="Ver projeto de análise de MEIs">
+  <img src="https://img.shields.io/badge/Ver%20projeto-analise--mei--brasil--2024-F2C811?style=for-the-badge&logo=github&logoColor=000000" alt="Ver projeto MEI Brasil 2024">
 </a>
 
 ### Gerenciador de Pacientes Odontológicos
 
-Sistema web desenvolvido para praticar desenvolvimento Full Stack, utilizando **HTML, CSS, JavaScript, Node.js e Express**.
+Sistema web desenvolvido como projeto prático de desenvolvimento Full Stack, utilizando **HTML, CSS, JavaScript, Node.js e Express**.
 
 <a href="https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos">
   <img src="https://img.shields.io/badge/Ver%20projeto-gerenciador--pacientes--odontologicos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto gerenciador de pacientes">
@@ -106,13 +104,13 @@ Concluído em **2021**
 
 Minha formação anterior foi em **Odontologia**, e hoje estou construindo uma nova trajetória profissional na área de tecnologia.
 
-Essa mudança trouxe para os meus estudos características que já faziam parte da minha formação, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**. Meu foco agora é evoluir tecnicamente, desenvolver projetos e consolidar minha formação em ADS.
+Essa mudança trouxe para os meus estudos características da minha formação anterior, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**. Meu foco agora é evoluir tecnicamente, desenvolver projetos e consolidar minha formação em ADS.
 
 ## Objetivo
 
 Busco minha **primeira oportunidade profissional na área de tecnologia**, especialmente em posições de entrada relacionadas à minha formação em **Análise e Desenvolvimento de Sistemas**.
 
-Este perfil reúne meus estudos, projetos práticos e minha evolução durante essa transição para a tecnologia.
+Este perfil reúne meus estudos, projetos práticos e minha evolução durante a transição para a tecnologia.
 
 **Fortaleza, Ceará, Brasil**
 

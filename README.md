@@ -16,15 +16,15 @@
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza, como formação complementar.
 
-Estou construindo minha base em tecnologia por meio de estudos e projetos práticos, com interesse principal nas áreas relacionadas à formação em **ADS**.
+Estou construindo minha base em tecnologia por meio de estudos e projetos práticos, com interesse nas áreas relacionadas à formação em **ADS**.
 
 ## Projetos em destaque
 
 ### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 
-Projeto de análise de dados desenvolvido em **Power BI**, com uso de **Power Query e DAX** para trabalhar indicadores, distribuição por UF e atividades econômicas dos MEIs.
+**Projeto principal de portfólio.** Análise desenvolvida em **Power BI**, utilizando **Power Query e DAX** para trabalhar indicadores, distribuição por UF e atividades econômicas dos MEIs.
 
-[Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024)
+[Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Metodologia](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/metodologia.md) · [Modelo de dados](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/modelo-dados.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
 
 ### Gerenciador de Pacientes Odontológicos
 
@@ -38,7 +38,7 @@ Projeto de estudo para praticar análise e exploração de dados utilizando **Py
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
-## Como desenvolvo meus projetos
+## Como desenvolvo meu projeto de dados
 
 ```text
 Dados → Tratamento → Modelagem → Indicadores → Visualização → Validação → Documentação
@@ -54,8 +54,6 @@ Python · Pandas · Matplotlib · Power BI · Power Query · DAX
 
 **Versionamento**  
 Git · GitHub
-
-> As tecnologias acima estão relacionadas aos projetos publicados neste perfil e não significam domínio avançado de todas elas.
 
 ## Formação
 
@@ -80,7 +78,7 @@ Minha formação anterior é em **Odontologia**. Atualmente estou fazendo uma tr
 
 A experiência acadêmica anterior contribuiu para desenvolver características que hoje aplico nos meus estudos, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
 
-Neste momento, meu foco está em aprender, praticar e transformar o que estudo em projetos que possam ser avaliados de forma concreta.
+Meu foco neste momento é aprender, praticar e transformar o que estudo em projetos que possam ser avaliados de forma concreta.
 
 ## Objetivo
 

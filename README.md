@@ -33,7 +33,7 @@ O projeto trabalha indicadores dos MEIs, distribuição por UF e análise de ati
 
 ### Gerenciador de Pacientes Odontológicos
 
-Sistema web desenvolvido como projeto prático, utilizando **HTML, CSS, JavaScript, Node.js e Express**.
+Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST para cadastro, consulta, edição e exclusão de registros, validação de dados, testes automatizados e integração contínua.
 
 [Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
 

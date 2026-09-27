@@ -33,13 +33,13 @@ O projeto reúne análise geográfica e setorial dos MEIs, indicadores de Receit
 
 ### Gerenciador de Pacientes Odontológicos
 
-Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua e deploy reproduzível no Render.
+Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua, deploy automático no Render e configuração de infraestrutura versionada.
 
 [Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
 
 ### Análise de Vendas com Python
 
-Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, KPIs de negócio, testes automatizados, controle de qualidade, geração reproduzível das visualizações e validação dos resultados publicados.
+Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, KPIs de negócio, testes automatizados, controle de qualidade, geração reproduzível das visualizações e mecanismo de validação dos resultados publicados.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 

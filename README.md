@@ -39,7 +39,7 @@ Sistema web desenvolvido como projeto prático, utilizando **HTML, CSS, JavaScri
 
 ### Análise de Vendas com Python
 
-Projeto de estudo para praticar análise e exploração de dados utilizando **Python, Pandas e Matplotlib**.
+Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, cálculo de KPIs, testes automatizados, controle de qualidade e visualizações analíticas.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 

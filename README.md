@@ -108,6 +108,16 @@ Fundamentos de **computação em nuvem, AWS, segurança, armazenamento, redes e 
 
 [Ver credencial](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url)
 
+<a href="https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url">
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20Data-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM SkillsBuild Getting Started with Data">
+</a>
+
+**Getting Started with Data**  
+IBM SkillsBuild · Emitida em setembro de 2026  
+Credencial introdutória em **dados e fundamentos de análise de dados**.
+
+[Ver credencial](https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url)
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**  

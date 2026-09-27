@@ -19,27 +19,27 @@
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza, como formação complementar.
 
-Estou construindo minha base em tecnologia por meio de estudos e projetos práticos, com foco em consolidar minha formação em **ADS**.
+Desenvolvo projetos nas áreas de **análise de dados, engenharia de dados e desenvolvimento web**, com foco em código reproduzível, validação, testes automatizados, documentação técnica e integração contínua.
 
 ## Projetos em destaque
 
 ### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 
-**Projeto principal de portfólio.** Análise desenvolvida em **Power BI**, utilizando **Power Query e DAX**, a partir dos Dados Setoriais 2024 da Receita Federal do Brasil.
+Análise de dados desenvolvida em **Power BI, Power Query e DAX** a partir dos Dados Setoriais 2024 da Receita Federal do Brasil.
 
-O projeto trabalha indicadores dos MEIs, distribuição por UF e análise de atividades econômicas, com documentação de metodologia, modelo de dados e medidas DAX.
+O projeto reúne análise geográfica e setorial dos MEIs, indicadores de Receita Bruta e arrecadação, documentação metodológica e uma camada de auditoria automatizada que reconcilia os resultados com as planilhas oficiais, valida hashes da fonte e inspeciona estrutura, DAX e Power Query dos arquivos PBIX.
 
-[Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Metodologia](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/metodologia.md) · [Modelo de dados](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/modelo-dados.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
+[Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Auditoria da fonte](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-fonte-oficial.md) · [Auditoria dos PBIX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-pbix.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
 
 ### Gerenciador de Pacientes Odontológicos
 
-Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST para cadastro, consulta, edição e exclusão de registros, validação de dados, testes automatizados e integração contínua.
+Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua e deploy reproduzível no Render.
 
 [Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
 
 ### Análise de Vendas com Python
 
-Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, cálculo de KPIs, testes automatizados, controle de qualidade e visualizações analíticas.
+Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, KPIs de negócio, testes automatizados, controle de qualidade, geração reproduzível das visualizações e validação dos resultados publicados.
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
@@ -102,14 +102,14 @@ Concluído em **2021**
 
 ## Sobre minha trajetória
 
-Minha formação anterior é em **Odontologia**. Atualmente estou fazendo uma transição de carreira para a área de tecnologia e construindo uma nova trajetória profissional a partir da formação em ADS.
+Minha formação anterior é em **Odontologia**. Atualmente faço a transição para tecnologia por meio da graduação em ADS, formação complementar e desenvolvimento contínuo de projetos técnicos.
 
-A experiência acadêmica anterior contribuiu para desenvolver características que hoje aplico nos meus estudos, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
+A experiência acadêmica e profissional anterior contribuiu para características que aplico em tecnologia, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
 
-Meu foco neste momento é aprender, praticar e transformar o que estudo em projetos que possam ser avaliados de forma concreta.
+Meu foco está em transformar conhecimento técnico em projetos verificáveis, documentados e reproduzíveis.
 
 ## Objetivo
 
-Construir minha trajetória profissional em tecnologia, aplicando os conhecimentos desenvolvidos na formação em **Análise e Desenvolvimento de Sistemas** por meio de projetos práticos.
+Atuar profissionalmente em tecnologia, com interesse em **desenvolvimento de software, análise de dados e engenharia de dados**, aplicando os conhecimentos construídos na formação e nos projetos de portfólio.
 
 **Fortaleza, Ceará, Brasil**

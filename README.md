@@ -51,6 +51,11 @@ Projeto de **engenharia e análise de dados** construído com **Python e Pandas*
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
+## Outros projetos
+
+**Observatório de Combustíveis Brasil** — pipeline de Data Analytics com dados oficiais da ANP, Python, PostgreSQL, modelagem dimensional, SQL, Power BI e rastreabilidade da ingestão.  
+[Ver projeto](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+
 ## Tecnologias principais nos projetos
 
 **Desenvolvimento**  

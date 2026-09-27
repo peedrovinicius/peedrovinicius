@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  Em transição de carreira para tecnologia
+  Dados · Backend · Desenvolvimento Web
 </p>
 
 <p align="center">
@@ -22,6 +22,14 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de co
 Desenvolvo projetos nas áreas de **análise de dados, engenharia de dados e desenvolvimento web**, com foco em código reproduzível, validação, testes automatizados, documentação técnica e integração contínua.
 
 ## Projetos em destaque
+
+### Mercado Tech Brasil
+
+Plataforma de dados para análise do mercado formal de trabalho em tecnologia no Brasil, construída com **Python, Polars, DuckDB, PostgreSQL, FastAPI, React e TypeScript**.
+
+O projeto integra ingestão e validação de dados públicos oficiais, camadas Bronze/Silver/Gold, rastreabilidade por SHA-256, gates de publicação, API versionada, frontend em produção e processamento anual da RAIS. A aplicação pública e a documentação OpenAPI estão disponíveis no Render.
+
+[Ver projeto](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [Swagger](https://mercado-tech-brasil.onrender.com/docs)
 
 ### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
 

@@ -79,6 +79,16 @@ Fundamentos de **Data Lakehouse, Unity Catalog, governança de dados e Data & AI
 
 [Ver credencial](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet)
 
+<a href="https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url">
+  <img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20Computing%20101-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Introduction to Cloud 101">
+</a>
+
+**AWS Educate Introduction to Cloud 101 — Training Badge**  
+Amazon Web Services Training and Certification · Emitida em setembro de 2026  
+Fundamentos de **computação em nuvem, AWS, segurança, armazenamento, redes e serviços cloud**.
+
+[Ver credencial](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url)
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**  

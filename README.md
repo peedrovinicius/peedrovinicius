@@ -1,13 +1,13 @@
-<h1 align="center">Pedro Vinícius</h1>
+<h1 align="center">Pedro Vinícius Patrício Silva</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  Dados · Backend · Desenvolvimento Web
+  <strong>Dados · Backend · Desenvolvimento Web</strong><br>
+  Análise e Desenvolvimento de Sistemas · conclusão prevista em 2027.1 · Fortaleza, Ceará
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/peedrovinicius/">
-    <img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/peedrovinicius">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -17,49 +17,66 @@
   </a>
 </p>
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em **2027.1**. Também estudo **Desenvolvimento Full Stack com IA** na Digital College, em Fortaleza, como formação complementar.
+Desenvolvo projetos em **análise de dados, engenharia de dados e desenvolvimento web**, com foco em **reprodutibilidade, qualidade de dados, testes automatizados, documentação técnica e integração contínua**.
 
-Desenvolvo projetos nas áreas de **análise de dados, engenharia de dados e desenvolvimento web**, com foco em código reproduzível, validação, testes automatizados, documentação técnica e integração contínua.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e também **Desenvolvimento Full Stack com IA** na Digital College.
 
 ## Projetos em destaque
 
 ### Mercado Tech Brasil
 
-Plataforma de dados para análise do mercado formal de trabalho em tecnologia no Brasil, construída com **Python, Polars, DuckDB, PostgreSQL, FastAPI, React e TypeScript**.
+Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com **CAGED e RAIS**, pipeline Bronze/Silver/Gold, rastreabilidade por SHA-256, gates de publicação, API e aplicação web.
 
-O projeto integra ingestão e validação de dados públicos oficiais, camadas Bronze/Silver/Gold, rastreabilidade por SHA-256, gates de publicação, API versionada, frontend em produção e processamento anual da RAIS. A aplicação pública e a documentação OpenAPI estão disponíveis no Render.
+**Stack:** Python · Polars · DuckDB · PostgreSQL · FastAPI · React · TypeScript
 
-[Ver projeto](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [Swagger](https://mercado-tech-brasil.onrender.com/docs)
+[Projeto](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [OpenAPI](https://mercado-tech-brasil.onrender.com/docs)
 
-### Raio-X do Empreendedorismo no Brasil: Inteligência de Dados e Concentração de Mercado dos MEIs (2024)
+### Raio-X do Empreendedorismo no Brasil: MEIs 2024
 
-Análise de dados desenvolvida em **Power BI, Power Query e DAX** a partir dos Dados Setoriais 2024 da Receita Federal do Brasil.
+Análise de dados construída a partir de fontes oficiais da Receita Federal, com indicadores geográficos e setoriais, auditoria automatizada da fonte e inspeção estrutural e semântica dos arquivos PBIX.
 
-O projeto reúne análise geográfica e setorial dos MEIs, indicadores de Receita Bruta e arrecadação, documentação metodológica e uma camada de auditoria automatizada que reconcilia os resultados com as planilhas oficiais, valida hashes da fonte e inspeciona estrutura, DAX e Power Query dos arquivos PBIX.
+**Stack:** Power BI · Power Query · DAX · Python
 
-[Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Auditoria da fonte](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-fonte-oficial.md) · [Auditoria dos PBIX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-pbix.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
+[Projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Auditoria da fonte](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-fonte-oficial.md) · [Auditoria dos PBIX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-pbix.md)
 
 ### Observatório de Combustíveis Brasil
 
-Pipeline de **Data Analytics** com dados oficiais da ANP, construído com **Python, Pandas, PostgreSQL, SQL e Power BI**. O projeto mantém ingestão rastreável, validações de qualidade, modelos estrela em granularidades distintas, análises por estabelecimento, testes automatizados e integração contínua.
+Pipeline de Data Analytics com dados oficiais da ANP, ingestão rastreável, validações de qualidade, modelos estrela em granularidades distintas, análises por estabelecimento e integração contínua.
 
-[Ver projeto](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+**Stack:** Python · Pandas · PostgreSQL · SQL · Power BI
+
+[Projeto](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
 
 ### Análise de Vendas com Python
 
-Projeto de **engenharia e análise de dados** construído com **Python e Pandas** a partir do Brazilian E-Commerce Public Dataset by Olist. Inclui pipeline reprodutível de ingestão, validação e transformação, KPIs de negócio, testes automatizados, controle de qualidade, geração reproduzível das visualizações e mecanismo de validação dos resultados publicados.
+Pipeline reprodutível sobre o Brazilian E-Commerce Public Dataset by Olist, com ingestão, validação, transformação, KPIs de negócio, testes automatizados e geração reproduzível de visualizações.
 
-[Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
+**Stack:** Python · Pandas · Matplotlib · Pytest
+
+[Projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
 ### Gerenciador de Pacientes Odontológicos
 
-Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua, deploy automático no Render e configuração de infraestrutura versionada.
+Aplicação web full stack com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua e deploy automático.
 
-[Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
+**Stack:** HTML · CSS · JavaScript · Node.js · Express
 
-## Tecnologias principais nos projetos
+[Projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo](https://gerenciador-pacientes-odontologicos.onrender.com)
 
-**Desenvolvimento**  
+## Tecnologias
+
+**Dados e análise**
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="https://pola.rs/"><img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars"></a>
+<a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=000000" alt="DuckDB"></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI"></a>
+<a href="https://learn.microsoft.com/en-us/power-query/"><img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white" alt="Power Query"></a>
+<a href="https://learn.microsoft.com/en-us/dax/"><img src="https://img.shields.io/badge/DAX-3D3D3D?style=flat-square&logo=microsoft&logoColor=white" alt="DAX"></a>
+
+**Desenvolvimento**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
@@ -70,76 +87,37 @@ Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e E
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
 
-**Dados**
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"></a>
-<a href="https://pola.rs/"><img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars"></a>
-<a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=000000" alt="DuckDB"></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI"></a>
-<a href="https://learn.microsoft.com/en-us/power-query/"><img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white" alt="Power Query"></a>
-<a href="https://learn.microsoft.com/en-us/dax/"> <img src="https://img.shields.io/badge/DAX-3D3D3D?style=flat-square&logo=microsoft&logoColor=white" alt="DAX"></a>
-
-**Versionamento**
+**Versionamento e entrega**
 
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://render.com/"><img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render"></a>
 
 ## Credenciais
 
-<a href="https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet">
-  <img src="https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Fundamentals">
-</a>
-
-**Academy Accreditation — Databricks Fundamentals**  
-Databricks Academy · Emitida em setembro de 2026  
-Fundamentos de **Data Lakehouse, Unity Catalog, governança de dados e Data & AI**.
-
-[Ver credencial](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet)
-
-<a href="https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20Computing%20101-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Educate Introduction to Cloud 101">
-</a>
-
-**AWS Educate Introduction to Cloud 101 — Training Badge**  
-Amazon Web Services Training and Certification · Emitida em setembro de 2026  
-Fundamentos de **computação em nuvem, AWS, segurança, armazenamento, redes e serviços cloud**.
-
-[Ver credencial](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url)
-
-<a href="https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url">
-  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20Data-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM SkillsBuild Getting Started with Data">
-</a>
-
-**Getting Started with Data**  
-IBM SkillsBuild · Emitida em setembro de 2026  
-Credencial introdutória em **dados e fundamentos de análise de dados**.
-
-[Ver credencial](https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url)
+| Credencial | Instituição | Emissão |
+|---|---|---|
+| [Academy Accreditation: Databricks Fundamentals](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet) | Databricks Academy | set/2026 |
+| [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url) | AWS Training and Certification | set/2026 |
+| [Getting Started with Data](https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url) | IBM SkillsBuild | set/2026 |
 
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**  
-Em andamento — previsão de conclusão: **2027.1**
+Em andamento · conclusão prevista em **2027.1**
 
-**Desenvolvimento Full Stack com IA — Digital College**  
-Em andamento — Fortaleza, Ceará
+**Desenvolvimento Full Stack com IA · Digital College**  
+Em andamento · Fortaleza, Ceará
 
-**Odontologia — Centro Universitário Doutor Leão Sampaio**  
+**Odontologia · Centro Universitário Doutor Leão Sampaio**  
 Concluído em **2021**
 
-## Sobre minha trajetória
+## Trajetória
 
-Minha formação anterior é em **Odontologia**. Atualmente faço a transição para tecnologia por meio da graduação em ADS, formação complementar e desenvolvimento contínuo de projetos técnicos.
+Minha formação anterior é em **Odontologia**. Atualmente direciono minha carreira para tecnologia por meio da graduação em ADS, formação complementar e desenvolvimento contínuo de projetos técnicos.
 
-A experiência acadêmica e profissional anterior contribuiu para características que aplico em tecnologia, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
+A formação anterior contribuiu para habilidades que aplico em tecnologia, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
 
-Meu foco está em transformar conhecimento técnico em projetos verificáveis, documentados e reproduzíveis.
-
-## Objetivo
-
-Atuar profissionalmente em tecnologia, com interesse em **desenvolvimento de software, análise de dados e engenharia de dados**, aplicando os conhecimentos construídos na formação e nos projetos de portfólio.
-
-**Fortaleza, Ceará, Brasil**
+**Interesses profissionais:** desenvolvimento de software · análise de dados · engenharia de dados

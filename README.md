@@ -67,6 +67,18 @@ Projeto de **engenharia e análise de dados** construído com **Python e Pandas*
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
+## Credenciais
+
+<a href="https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet">
+  <img src="https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Fundamentals">
+</a>
+
+**Academy Accreditation — Databricks Fundamentals**  
+Databricks Academy · Emitida em setembro de 2026  
+Fundamentos de **Data Lakehouse, Unity Catalog, governança de dados e Data & AI**.
+
+[Ver credencial](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet)
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**  

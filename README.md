@@ -39,11 +39,11 @@ O projeto reúne análise geográfica e setorial dos MEIs, indicadores de Receit
 
 [Ver projeto](https://github.com/peedrovinicius/analise-mei-brasil-2024) · [Auditoria da fonte](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-fonte-oficial.md) · [Auditoria dos PBIX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/docs/auditoria-pbix.md) · [Medidas DAX](https://github.com/peedrovinicius/analise-mei-brasil-2024/blob/main/dax/medidas.md)
 
-### Gerenciador de Pacientes Odontológicos
+### Observatório de Combustíveis Brasil
 
-Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua, deploy automático no Render e configuração de infraestrutura versionada.
+Pipeline de **Data Analytics** com dados oficiais da ANP, construído com **Python, Pandas, PostgreSQL, SQL e Power BI**. O projeto mantém ingestão rastreável, validações de qualidade, modelos estrela em granularidades distintas, análises por estabelecimento, testes automatizados e integração contínua.
 
-[Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
+[Ver projeto](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
 
 ### Análise de Vendas com Python
 
@@ -51,10 +51,11 @@ Projeto de **engenharia e análise de dados** construído com **Python e Pandas*
 
 [Ver projeto](https://github.com/peedrovinicius/analise-vendas-python)
 
-## Outros projetos
+### Gerenciador de Pacientes Odontológicos
 
-**Observatório de Combustíveis Brasil** — pipeline de Data Analytics com dados oficiais da ANP, Python, PostgreSQL, modelagem dimensional, SQL, Power BI e rastreabilidade da ingestão.  
-[Ver projeto](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+Aplicação web full stack desenvolvida com **HTML, CSS, JavaScript, Node.js e Express**, com API REST CRUD, validação de entrada, tratamento de erros, testes automatizados, controles básicos de segurança, integração contínua, deploy automático no Render e configuração de infraestrutura versionada.
+
+[Ver projeto](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo online](https://gerenciador-pacientes-odontologicos.onrender.com)
 
 ## Tecnologias principais nos projetos
 

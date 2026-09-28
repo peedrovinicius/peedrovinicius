@@ -33,6 +33,14 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 [Projeto](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [OpenAPI](https://mercado-tech-brasil.onrender.com/docs)
 
+### Atlas de Compras Públicas
+
+Pipeline de engenharia de dados para compras públicas brasileiras com dados do PNCP, rastreabilidade por evidência original, normalização de produtos, benchmarks independentes e análise estatística de preços.
+
+**Stack:** Python · Polars · DuckDB · Pydantic · FastAPI
+
+[Projeto](https://github.com/peedrovinicius/atlas-compras-publicas) · [Arquitetura](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) · [Snapshot de qualidade](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/dashboard-quality-snapshot.html)
+
 ### Raio-X do Empreendedorismo no Brasil: MEIs 2024
 
 Análise de dados construída a partir de fontes oficiais da Receita Federal, com indicadores geográficos e setoriais, auditoria automatizada da fonte e inspeção estrutural e semântica dos arquivos PBIX.

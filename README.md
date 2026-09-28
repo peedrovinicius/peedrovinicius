@@ -27,7 +27,7 @@ Pipeline auditável de dados do **PNCP** para captura, normalização, identidad
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas) [![Demo](https://img.shields.io/badge/Demo-46E3B7?logo=render&logoColor=000000)](https://atlas-compras-publicas.onrender.com) [![Arquitetura](https://img.shields.io/badge/Arquitetura-4A5568?logo=readthedocs&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/sql-examples.md)
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<hr>
 
 ### Mercado Tech Brasil
 
@@ -37,7 +37,7 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/mercado-tech-brasil) [![Aplicação](https://img.shields.io/badge/Aplicação-46E3B7?logo=render&logoColor=000000)](https://mercado-tech-brasil.onrender.com) [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](https://mercado-tech-brasil.onrender.com/docs)
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<hr>
 
 ### Gerenciador de Pacientes Odontológicos
 
@@ -47,7 +47,7 @@ Aplicação Full Stack com frontend web, API REST CRUD, validação, testes auto
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) [![Demo](https://img.shields.io/badge/Demo-46E3B7?logo=render&logoColor=000000)](https://gerenciador-pacientes-odontologicos.onrender.com)
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<hr>
 
 ### Observatório de Combustíveis Brasil
 
@@ -56,6 +56,8 @@ Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000000)
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+
+<hr>
 
 ## Outros projetos
 

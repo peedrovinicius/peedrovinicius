@@ -76,7 +76,7 @@ Concluído em **2021**
 
 ## Credenciais
 
-[![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet)
+[![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/d9216257-ce7c-46fd-8e34-a1ec0d72e86a#acc.VkZRwFBW)
 [![AWS Educate](https://img.shields.io/badge/AWS_Educate-Cloud_101-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url)
 [![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-Getting_Started_with_Data-052FAD?logo=ibm&logoColor=white)](https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url)
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-Certification-E37400?logo=googleanalytics&logoColor=white)](https://skillshop.credential.net/c57fc1e2-00ad-4c8e-a2a5-7f7427218021#acc.wqjQaY2H)

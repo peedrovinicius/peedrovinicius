@@ -104,6 +104,7 @@ Aplicação web full stack com API REST CRUD, validação de entrada, tratamento
 | [Academy Accreditation: Databricks Fundamentals](https://credentials.databricks.com/profile/pedroviniciuspatriciosilva755284/wallet) | Databricks Academy | set/2026 |
 | [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/c4b7fac2-a1af-4f6a-b190-2a72a8230045/public_url) | AWS Training and Certification | set/2026 |
 | [Getting Started with Data](https://www.credly.com/badges/e65e17a4-b058-4b3d-a0a0-6ad8536d5cac/public_url) | IBM SkillsBuild | set/2026 |
+| Google Analytics Certification | Google Skillshop | set/2026 |
 
 ## Formação
 

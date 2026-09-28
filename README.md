@@ -23,7 +23,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento 
 
 Pipeline auditável de dados do **PNCP** para captura, normalização, identidade de produtos, rastreabilidade e análise.
 
-**Python · Polars · DuckDB · Pydantic · Pytest · GitHub Actions**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 [Repositório](https://github.com/peedrovinicius/atlas-compras-publicas) ·
 [Demo](https://atlas-compras-publicas.onrender.com) ·

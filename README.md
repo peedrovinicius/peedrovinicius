@@ -27,6 +27,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e também **Desenvol
 
 Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com **CAGED e RAIS**, pipeline Bronze/Silver/Gold, rastreabilidade por SHA-256, gates de publicação, API e aplicação web.
 
+[![GitHub stars](https://img.shields.io/github/stars/peedrovinicius/mercado-tech-brasil?style=flat-square&label=stars)](https://github.com/peedrovinicius/mercado-tech-brasil/stargazers)
+
 **Stack:** Python · Polars · DuckDB · PostgreSQL · FastAPI · React · TypeScript
 
 [Projeto](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [OpenAPI](https://mercado-tech-brasil.onrender.com/docs)

@@ -34,7 +34,7 @@ Pipeline auditável de dados do **PNCP** para captura, normalização, identidad
 
 Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com **CAGED e RAIS**, pipeline de dados, API e aplicação web.
 
-**Python · Polars · DuckDB · PostgreSQL · FastAPI · React · TypeScript**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 [Repositório](https://github.com/peedrovinicius/mercado-tech-brasil) ·
 [Aplicação](https://mercado-tech-brasil.onrender.com) ·
@@ -44,7 +44,7 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 Aplicação Full Stack com frontend web, API REST CRUD, validação, testes automatizados, CI e deploy.
 
-**JavaScript · Node.js · Express · HTML · CSS**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 [Repositório](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) ·
 [Demo](https://gerenciador-pacientes-odontologicos.onrender.com)
@@ -53,7 +53,7 @@ Aplicação Full Stack com frontend web, API REST CRUD, validação, testes auto
 
 Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de qualidade e preparação para visualização.
 
-**Python · Pandas · PostgreSQL · SQL · Power BI**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000000)
 
 [Repositório](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
 

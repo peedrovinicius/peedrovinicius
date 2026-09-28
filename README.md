@@ -116,8 +116,6 @@ Concluído em **2021**
 
 ## Trajetória
 
-Minha formação anterior é em **Odontologia**. Atualmente direciono minha carreira para tecnologia por meio da graduação em ADS, formação complementar e desenvolvimento contínuo de projetos técnicos.
-
-A formação anterior contribuiu para habilidades que aplico em tecnologia, como **raciocínio analítico, organização, responsabilidade e resolução de problemas**.
+Formado em **Odontologia em 2021**, atualmente em transição para tecnologia, com graduação em ADS e projetos concentrados em dados, backend e desenvolvimento web.
 
 **Interesses profissionais:** desenvolvimento de software · análise de dados · engenharia de dados

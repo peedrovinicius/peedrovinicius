@@ -17,11 +17,22 @@
   </a>
 </p>
 
-Desenvolvo projetos em **análise de dados, engenharia de dados e desenvolvimento web**, com foco em **reprodutibilidade, qualidade de dados, testes automatizados, documentação técnica e integração contínua**.
+Desenvolvo projetos em **análise de dados, engenharia de dados, backend e desenvolvimento web**, com foco em **reprodutibilidade, qualidade de dados, testes automatizados, documentação técnica e integração contínua**.
+
+Minha formação anterior em **Odontologia** também aparece no portfólio como contexto de domínio. No **Atlas de Compras Públicas**, por exemplo, odontologia é a primeira vertical de produção de um pipeline auditável construído sobre dados do PNCP.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e também **Desenvolvimento Full Stack com IA** na Digital College.
 
 ## Projetos em destaque
+
+### Atlas de Compras Públicas
+
+Pipeline auditável de dados do **Portal Nacional de Contratações Públicas (PNCP)** para captura, normalização de itens, comparação de preços e detecção explicável de sinais. O projeto preserva evidências por SHA-256, utiliza benchmarks congelados e mantém validação automatizada em CI.
+
+**Stack:** Python · Polars · DuckDB · Pydantic · Pytest · GitHub Actions
+
+[Projeto](https://github.com/peedrovinicius/atlas-compras-publicas) · [Snapshot de qualidade](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/dashboard-quality-snapshot.html) · [Arquitetura](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md)
+
 
 ### Mercado Tech Brasil
 

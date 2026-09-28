@@ -27,6 +27,8 @@ Pipeline auditável de dados do **PNCP** para captura, normalização, identidad
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas) [![Demo](https://img.shields.io/badge/Demo-46E3B7?logo=render&logoColor=000000)](https://atlas-compras-publicas.onrender.com) [![Arquitetura](https://img.shields.io/badge/Arquitetura-4A5568?logo=readthedocs&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/sql-examples.md)
 
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
 ### Mercado Tech Brasil
 
 Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com **CAGED e RAIS**, pipeline de dados, API e aplicação web.
@@ -35,6 +37,8 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/mercado-tech-brasil) [![Aplicação](https://img.shields.io/badge/Aplicação-46E3B7?logo=render&logoColor=000000)](https://mercado-tech-brasil.onrender.com) [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](https://mercado-tech-brasil.onrender.com/docs)
 
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
 ### Gerenciador de Pacientes Odontológicos
 
 Aplicação Full Stack com frontend web, API REST CRUD, validação, testes automatizados, CI e deploy.
@@ -42,6 +46,8 @@ Aplicação Full Stack com frontend web, API REST CRUD, validação, testes auto
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) [![Demo](https://img.shields.io/badge/Demo-46E3B7?logo=render&logoColor=000000)](https://gerenciador-pacientes-odontologicos.onrender.com)
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 ### Observatório de Combustíveis Brasil
 

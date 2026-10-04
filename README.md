@@ -15,7 +15,7 @@ Desenvolvo projetos em **Análise de Dados, Engenharia de Dados e Desenvolviment
 
 Sou formado em **Odontologia desde 2021**. Essa experiência também funciona como conhecimento de domínio nos meus projetos de tecnologia. No **Atlas de Compras Públicas**, odontologia é a primeira vertical de uma plataforma que transforma descrições do PNCP em produtos estruturados, comparáveis e auditáveis.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento Full Stack com IA** na Digital College.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento Full Stack** na Digital College.
 
 ## Projetos principais
 
@@ -25,7 +25,7 @@ Pipeline auditável de dados do **PNCP** para captura, normalização, identidad
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-[Repositório](https://github.com/peedrovinicius/atlas-compras-publicas) · [Demo](https://atlas-compras-publicas-web.onrender.com) · [API](https://atlas-compras-publicas.onrender.com/docs) · [Arquitetura](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) · [SQL](https://github.com/peedrovinicius/atlas-compras-publicas/tree/main/sql)
+[Repositório](https://github.com/peedrovinicius/atlas-compras-publicas) · [Demo](https://atlas-compras-publicas-web.onrender.com) · [API](https://atlas-compras-publicas-analytics.onrender.com/docs) · [Arquitetura](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) · [SQL](https://github.com/peedrovinicius/atlas-compras-publicas/tree/main/sql)
 
 <hr>
 
@@ -41,11 +41,11 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 ### Gerenciador de Pacientes Odontológicos
 
-Aplicação Full Stack com frontend web, API REST CRUD, validação, testes automatizados, CI e deploy.
+Demonstração de registros odontológicos fictícios com cadastro e edição temporários, odontograma, API Express, testes e publicação no GitHub Pages.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-[Repositório](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo](https://gerenciador-pacientes-odontologicos.onrender.com)
+[Repositório](https://github.com/peedrovinicius/gerenciador-pacientes-odontologicos) · [Demo](https://peedrovinicius.github.io/gerenciador-pacientes-odontologicos/)
 
 <hr>
 
@@ -53,9 +53,17 @@ Aplicação Full Stack com frontend web, API REST CRUD, validação, testes auto
 
 Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de qualidade e preparação para visualização.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000000)
 
 [Repositório](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+
+<hr>
+
+### Nexo — Gestão de Estoque
+
+Aplicação de estoque com Java, Spring Boot e MySQL, frontend React, controle por lotes, saída FEFO, compras e rastreabilidade.
+
+[Repositório](https://github.com/peedrovinicius/nexo-estoque-inteligente) · [Demo](https://nexo-estoque-web-production.up.railway.app)
 
 <hr>
 
@@ -68,7 +76,8 @@ Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de
 **Análise e Desenvolvimento de Sistemas**  
 Em andamento · conclusão prevista em **2027.1**
 
-**Desenvolvimento Full Stack com IA · Digital College**  
+**Desenvolvimento Full Stack · Digital College**
+
 Em andamento · Fortaleza, Ceará
 
 **Odontologia · Centro Universitário Doutor Leão Sampaio**  

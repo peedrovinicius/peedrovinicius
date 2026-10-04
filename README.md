@@ -55,7 +55,7 @@ Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000000)
 
-[Repositório](https://github.com/peedrovinicius/observatorio-combustiveis-brasil)
+[Repositório](https://github.com/peedrovinicius/observatorio-combustiveis-brasil) · [Resultados e gráficos](https://github.com/peedrovinicius/observatorio-combustiveis-brasil/blob/main/docs/resultados-2026.md)
 
 <hr>
 

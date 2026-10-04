@@ -23,7 +23,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento 
 
 Pipeline auditável de dados do **PNCP** para captura, normalização, identidade de produtos, rastreabilidade e análise.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
 
 [Repositório](https://github.com/peedrovinicius/atlas-compras-publicas) · [Demo](https://atlas-compras-publicas-web.onrender.com) · [API](https://atlas-compras-publicas-analytics.onrender.com/docs) · [Arquitetura](https://github.com/peedrovinicius/atlas-compras-publicas/blob/main/docs/architecture.md) · [SQL](https://github.com/peedrovinicius/atlas-compras-publicas/tree/main/sql)
 
@@ -33,7 +33,7 @@ Pipeline auditável de dados do **PNCP** para captura, normalização, identidad
 
 Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com **CAGED e RAIS**, pipeline de dados, API e aplicação web.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000000) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
 
 [Repositório](https://github.com/peedrovinicius/mercado-tech-brasil) · [Aplicação](https://mercado-tech-brasil.onrender.com) · [OpenAPI](https://mercado-tech-brasil.onrender.com/docs)
 

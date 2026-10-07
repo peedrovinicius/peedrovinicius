@@ -39,6 +39,16 @@ Plataforma de dados do mercado formal de trabalho em tecnologia no Brasil, com *
 
 <hr>
 
+### Próximo Destino
+
+Aplicação web full stack para operação de agência de turismo, com catálogo, reservas, portal do viajante, administração, autenticação e fluxos financeiros.
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+[Repositório](https://github.com/peedrovinicius/proximo-destino) · [Aplicação](https://proximo-destino-web-production.up.railway.app)
+
+<hr>
+
 ### Gerenciador de Pacientes Odontológicos
 
 Demonstração de registros odontológicos fictícios com cadastro e edição temporários, odontograma, API Express, testes e publicação no GitHub Pages.
@@ -76,9 +86,8 @@ Aplicação de estoque com Java, Spring Boot e MySQL, frontend React, controle p
 **Análise e Desenvolvimento de Sistemas**  
 Em andamento · conclusão prevista em **2027.1**
 
-**Desenvolvimento Full Stack · Digital College**
-
-Em andamento · Fortaleza, Ceará
+**Desenvolvimento Full Stack · Digital College**  
+Em andamento · conclusão prevista em **março de 2027** · Fortaleza, Ceará
 
 **Odontologia · Centro Universitário Doutor Leão Sampaio**  
 Concluído em **2021**

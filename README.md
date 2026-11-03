@@ -45,7 +45,7 @@ Aplicação web full stack para operação de agência de turismo, com catálogo
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-[Repositório](https://github.com/peedrovinicius/proximo-destino) · [Aplicação](https://proximo-destino-web-production.up.railway.app)
+[Repositório](https://github.com/peedrovinicius/proximo-destino) · **Demonstração completa temporariamente indisponível (API em manutenção)**
 
 <hr>
 
@@ -73,7 +73,7 @@ Pipeline analítico com dados públicos da ANP, PostgreSQL, SQL, validações de
 
 Aplicação de estoque com Java, Spring Boot e MySQL, frontend React, controle por lotes, saída FEFO, compras e rastreabilidade.
 
-[Repositório](https://github.com/peedrovinicius/nexo-estoque-inteligente) · [Demo](https://nexo-estoque-web-production.up.railway.app)
+[Repositório](https://github.com/peedrovinicius/nexo-estoque-inteligente) · [Demo](https://nexo-estoque-web.onrender.com)
 
 <hr>
 
